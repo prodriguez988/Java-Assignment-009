@@ -16,7 +16,9 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The answers aren't correct anymore because it has gone past the maximum value that the class can store within a variable.
+Therefore a BigInteger class will be needed so that it can store the extra digits in an array and that way the factorial
+will be able to go past 15!. 
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +28,8 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+After modifying the loop using BigIntegers, the program was able to correctly calculate 30! and it even went as far as
+calculating 1000!. I'm sure it would've gone farther up, but I didn't want to risk the program crashing. 
 ```
 
 ## Submission
